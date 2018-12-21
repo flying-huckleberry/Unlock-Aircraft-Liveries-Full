@@ -55,13 +55,18 @@ UH-1H		Bazar\Liveries\uh-1h
 QUIRK:
 ---------------------------------------------
 F-5E-3 has a livery folder with cryllic text, which breaks
-OVGME's ZIP file extraction.
+OVGME's ZIP file extraction. (FiAF 11th FS Lapland Air Command)
 
 The folder has been renamed to 'FI HAvllv11', and all its assets
 have been copied to ensure the livery is always available.
 
 When playing as FINLAND in an F-5E, that livery will appear
 TWICE in the rearm/refuel livery selection dropdown.
+
+---------------------------------------------
+CHANGELOG:
+---------------------------------------------
+2.0 - Fixes any 1.0 modded description files which were broken by the DCS update
 
 ---------------------------------------------
 
